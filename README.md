@@ -19,4 +19,13 @@ Pulse counter module idea is to provide simple to use class with following featu
 
 ## Interface
 
+## Build
+### Test build
+Test builds are performed under WSL using g++ and make tool chain.
+If needed, tool chain can be installed with with following commands:
+```
+sudo apt-get update
+sudo apt-get install gcc g++ make git
+```
+
 TBD

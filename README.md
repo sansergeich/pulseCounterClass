@@ -19,6 +19,8 @@ Pulse counter module idea is to provide simple to use class with following featu
 
 ## Interface
 
+T.B.D.
+
 ## Build
 ### Test build
 Test builds are performed under WSL using g++ and make tool chain.
@@ -28,4 +30,10 @@ sudo apt-get update
 sudo apt-get install gcc g++ make git
 ```
 
-TBD
+To run first simple test application should be executed:
+```
+make
+./build/test
+```
+
+T.B.D.
